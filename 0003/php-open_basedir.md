@@ -52,7 +52,7 @@ php_admin_value open_basedir "/home/wwwroot/:/tmp/:/var/tmp/:/proc/"
 fastcgi_param  PHP_VALUE  "open_basedir=$document_root:/tmp/";
 ```
 
-* `user.ini` 文件
+* `.user.ini` 文件
 
 设置方法同 1 .
 
