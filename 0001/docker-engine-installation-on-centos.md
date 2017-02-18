@@ -1,10 +1,6 @@
-# 【转】Docker Engine : Installation on CentOS
+# Docker Engine : Installation on CentOS
 
----
-
-https://docs.docker.com/engine/installation/linux/centos/
-
----
+> https://docs.docker.com/engine/installation/linux/centos/
 
 Docker runs on CentOS 7.X. An installation on other binary compatible EL7 distributions such as Scientific Linux might succeed, but Docker does not test or support Docker on these distributions.
 
@@ -16,7 +12,7 @@ Docker requires a 64-bit installation regardless of your CentOS version. Also, y
 
 To check your current kernel version, open a terminal and use `uname -r` to display your kernel version:
 
-```
+```shell
 $ uname -r
 3.10.0-229.el7.x86_64
 ```
@@ -33,13 +29,13 @@ There are two ways to install Docker Engine. You can install using the yum packa
 
 * Make sure your existing yum packages are up-to-date.
 
-	```
-    $ sudo yum update
+```shell
+$ sudo yum update
 ```
 
 * Add the yum repo.
 
-	```
+```shell
 $ sudo tee /etc/yum.repos.d/docker.repo <<-'EOF'
 [dockerrepo]
 name=Docker Repository
@@ -52,19 +48,19 @@ EOF
 
 * Install the Docker package.
 
-	```
+```shell
 $ sudo yum install docker-engine
 ```
 
 * Start the Docker daemon.
 
-	```
+```shell
 $ sudo service docker start
 ```
 
 * Verify `docker` is installed correctly by running a test image in a container.
 
-```
+```shell
 $ sudo docker run hello-world
 Unable to find image 'hello-world:latest' locally
     latest: Pulling from hello-world
@@ -98,27 +94,28 @@ Unable to find image 'hello-world:latest' locally
 
 * Make sure your existing yum packages are up-to-date.
 
-	```
-    $ sudo yum update
+```shell
+$ sudo yum update
 ```
+
 * Run the Docker installation script.
 
-	```
-    $ curl -fsSL https://get.docker.com/ | sh
+```shell
+$ curl -fsSL https://get.docker.com/ | sh
 ```
 
-	This script adds the `docker.repo` repository and installs Docker.
+This script adds the `docker.repo` repository and installs Docker.
 
 * Start the Docker daemon.
 
-	```
-    $ sudo service docker start
+```shell
+$ sudo service docker start
 ```
 
 * Verify `docker` is installed correctly by running a test image in a container.
 
-	```
-    $ sudo docker run hello-world
+```shell
+$ sudo docker run hello-world
 ```
 
 ## Create a docker group
@@ -127,8 +124,7 @@ The `docker` daemon binds to a Unix socket instead of a TCP port. By default tha
 
 To avoid having to use `sudo` when you use the `docker` command, create a Unix group called `docker` and add users to it. When the `docker` daemon starts, it makes the ownership of the Unix socket read/writable by the `docker` group.
 
->
-Warning: The `docker` group is equivalent to the `root` user; For details on how this impacts security in your system, see [Docker Daemon Attack Surface](https://docs.docker.com/engine/security/security/#docker-daemon-attack-surface) for details.
+> Warning: The `docker` group is equivalent to the `root` user; For details on how this impacts security in your system, see [Docker Daemon Attack Surface](https://docs.docker.com/engine/security/security/#docker-daemon-attack-surface) for details.
 
 To create the `docker` group and add your user:
 
@@ -136,14 +132,14 @@ To create the `docker` group and add your user:
 
 * Create the `docker` group.
 
-	```
-    sudo groupadd docker
+```shell
+$ sudo groupadd docker
 ```
 
 * Add your user to `docker` group.
 
-	```
-    sudo usermod -aG docker your_username
+```shell
+$ sudo usermod -aG docker your_username
 ```
 
 * Log out and log back in.
@@ -152,16 +148,16 @@ To create the `docker` group and add your user:
 
 * Verify your work by running `docker` without `sudo`.
 
-	```
-    $ docker run hello-world
+```shell
+$ docker run hello-world
 ```
 
 ## Start the docker daemon at boot
 
 To ensure Docker starts when you boot your system, do the following:
 
-```
-  $ sudo chkconfig docker on
+```shell
+$ sudo chkconfig docker on
 ```
 
 If you need to add an HTTP Proxy, set a different directory or partition for the Docker runtime files, or make other customizations, read our Systemd article to learn how to [customize your Systemd Docker daemon options](https://docs.docker.com/engine/admin/systemd/).
@@ -172,24 +168,23 @@ You can uninstall the Docker software with yum.
 
 * List the package you have installed.
 
-	```
-    $ yum list installed | grep docker
-    yum list installed | grep docker
-    docker-engine.x86_64   1.7.1-1.el7 @/docker-engine-1.7.1-1.el7.x86_64.rpm
+```shell
+$ yum list installed | grep docker
+docker-engine.x86_64   1.7.1-1.el7 @/docker-engine-1.7.1-1.el7.x86_64.rpm
 ```
 
 * Remove the package.
 
-	```
-    $ sudo yum -y remove docker-engine.x86_64
+```shell
+$ sudo yum -y remove docker-engine.x86_64
 ```
 
-    This command does not remove images, containers, volumes, or user-created configuration files on your host.
+This command does not remove images, containers, volumes, or user-created configuration files on your host.
 
 * To delete all images, containers, and volumes, run the following command:
 
-	```
-    $ rm -rf /var/lib/docker
+```shell
+$ rm -rf /var/lib/docker
 ```
-    Locate and delete any user-created configuration files.
 
+Locate and delete any user-created configuration files.
