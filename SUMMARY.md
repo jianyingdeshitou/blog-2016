@@ -25,4 +25,4 @@
 1. [关于Docker的15个提示](0018/about-docker-15-tips.md)
 1. [基于docker部署gitlab](0019/docker-gitlab.md)
 1. [Docker Architecture、Differences Between Virtual Machine(VM) And LXC Container Technology](0020/docker-vm-lxc.md)
-
+1. [Docker —— Git 部署](0021/docker-git-for-deployment.md)
