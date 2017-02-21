@@ -8,9 +8,8 @@
 1. [PHP 配置文件中open_basedir选项作用](0005/php-open_basedir.md)
 1. [谁知道PHP加密方面的事情？（Zend Guard Loader）](0006/php-zend_loader.md)
 1. [利用php-java-bridge包实现PHP调用JAVA类](0007/php-java-bridge.md)
+1. [PHP-Java-Bridge使用笔记](0008/php-java-bridge.md)
 
 ## 2016
 
 1. [Docker Engine : Installation on CentOS](0001/docker-engine-installation-on-centos.md)
-
-
