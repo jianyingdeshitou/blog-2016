@@ -24,3 +24,5 @@
 1. [不通过SSH接入Docker](0017/access-a-docker-container-without-ssh.md)
 1. [关于Docker的15个提示](0018/about-docker-15-tips.md)
 1. [基于docker部署gitlab](0019/docker-gitlab.md)
+1. [Docker Architecture、Differences Between Virtual Machine(VM) And LXC Container Technology](0020/docker-vm-lxc.md)
+
