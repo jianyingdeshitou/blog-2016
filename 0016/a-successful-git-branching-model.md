@@ -2,7 +2,7 @@
 
 > 来源：http://blog.jobbole.com/81196/
 
-本文由 伯乐在线 - henry 翻译，sunbiaobiao 校稿。未经许可，禁止转载！
+> 本文由 伯乐在线 - henry 翻译，sunbiaobiao 校稿。未经许可，禁止转载！
 
 > 英文出处：Nvie（原文写于 2010 年）:http://nvie.com/posts/a-successful-git-branching-model/
 
