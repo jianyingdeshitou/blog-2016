@@ -12,5 +12,5 @@
 ## 2016
 
 1. [Docker Engine : Installation on CentOS](0001/docker-engine-installation-on-centos.md)
-
+1. [25个 Git 进阶技巧](0008/25-git-tips.md)
 
