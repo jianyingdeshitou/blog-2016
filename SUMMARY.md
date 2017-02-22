@@ -11,6 +11,7 @@
 1. [PHP-Java-Bridge使用笔记](0008/php-java-bridge.md)
 1. [隐藏PHP版本与PHP基本安全设置](0029/php-config.md)
 1. [彻底隐藏Nginx版本号的安全性与方法](0030/nginx-config.md)
+1. [隐藏Apache版本号的必要性与方法](0031/apache-config.md)
 
 ## 2016
 
