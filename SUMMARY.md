@@ -9,6 +9,7 @@
 1. [谁知道PHP加密方面的事情？（Zend Guard Loader）](0006/php-zend_loader.md)
 1. [利用php-java-bridge包实现PHP调用JAVA类](0007/php-java-bridge.md)
 1. [PHP-Java-Bridge使用笔记](0008/php-java-bridge.md)
+1. [隐藏PHP版本与PHP基本安全设置](0029/php-config.md)
 
 ## 2016
 
