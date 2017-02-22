@@ -24,12 +24,10 @@ Vary: Accept-Encoding
 
 ## 2、其它几个PHP的基本安全设置：
 
-
 ```shell
 disable_functions = phpinfo,system,exec,shell_exec,passthru,popen,dl,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source
 #该指令接受一个用逗号分隔的函数名列表，以禁用特定的函数。
 ```
-
 
 ```shell
 display_errors = Off
@@ -40,7 +38,6 @@ display_errors = Off
 allow_url_fopen = Off
 #是否允许打开远程文件，建议关闭，如果网站需要采集功能就打开。
 ```
-
 
 ```shell
 safe_mode = On
