@@ -56,3 +56,4 @@
 1. [设计师的配色理论：你真懂颜色了吗？](0049/color-theory-for-designers.md)
 1. [设计师的配色理论：你真懂这些色彩术语吗？](0050/color-concepts-and-terminology.md)
 1. [设计师的配色理论：创建自己的调色板](0051/creating-your-own-color-palettes.md)
+1. [巧用色彩的冲击力！13例大胆用色网页设计赏](0052/13-beautiful-colors-websites.md)
