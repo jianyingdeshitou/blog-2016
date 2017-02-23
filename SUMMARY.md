@@ -43,3 +43,4 @@
 1. [玩转 OS X Dock 的 6 个小技巧](0036/mac-osx-dock-tips.md)
 1. [Mac 基础教程：去除系统截图名的日期后缀](0037/mac-osx-screencapture.md)
 1. [Mac 基础教程：如何玩转 Mac 截图](0038/mac-osx-screencapture.md)
+1. [Mac 基础教程：如何更改 OS X 截图默认保存路径](0039/mac-osx-screencapture.md)
