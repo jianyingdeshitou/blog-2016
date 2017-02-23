@@ -44,3 +44,4 @@
 1. [Mac 基础教程：去除系统截图名的日期后缀](0037/mac-osx-screencapture.md)
 1. [Mac 基础教程：如何玩转 Mac 截图](0038/mac-osx-screencapture.md)
 1. [Mac 基础教程：如何更改 OS X 截图默认保存路径](0039/mac-osx-screencapture.md)
+1. [Mac 基础教程：如何更改 OS X 默认的截图文件格式](0040/mac-osx-screencapture.md)
