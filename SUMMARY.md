@@ -42,3 +42,4 @@
 1. [Mac OS X 进阶技巧 像专家一样用好你的 Finder 12个窍门](0035/mac-osx-finder-tips.md)
 1. [玩转 OS X Dock 的 6 个小技巧](0036/mac-osx-dock-tips.md)
 1. [Mac 基础教程：去除系统截图名的日期后缀](0037/mac-osx-screencapture.md)
+1. [Mac 基础教程：如何玩转 Mac 截图](0038/mac-osx-screencapture.md)
