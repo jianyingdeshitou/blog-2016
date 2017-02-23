@@ -38,3 +38,4 @@
 1. [Docker 中管理数据](0027/docker-volumes.md)
 1. [25个 Git 进阶技巧](0028/25-git-tips.md)
 1. [10 个实用技巧，让 Finder 带你飞](0033/osx-finder-tips.md)
+1. [10个Mac 用戶一定要知道的Finder独特档案整理技巧](0034/mac-osx-finder-tips.md)
