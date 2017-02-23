@@ -47,3 +47,4 @@
 1. [Mac 基础教程：如何更改 OS X 默认的截图文件格式](0040/mac-osx-screencapture.md)
 1. [Mac 小技巧：巧用搜索功能查找大型文件](0041/mac-osx-finder-search.md)
 1. [简单 5 招，教你快速腾出 Mac 磁盘可用空间](0042/mac-osx-free-disk-space.md)
+1. [卸载 Mac 应用程序的 4 种基础方法](0043/mac-osx-remove-application.md)
