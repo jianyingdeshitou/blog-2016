@@ -49,3 +49,4 @@
 1. [简单 5 招，教你快速腾出 Mac 磁盘可用空间](0042/mac-osx-free-disk-space.md)
 1. [卸载 Mac 应用程序的 4 种基础方法](0043/mac-osx-remove-application.md)
 1. [基础教程：如何给 Mac 通讯录联系人分组](0044/mac-osx-contact.md)
+1. [利用mac自带工作制作iso](0045/mac-osx-make-iso-file.md)
