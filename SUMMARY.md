@@ -54,3 +54,4 @@
 1. [Mac 基础教程：在 Mac 上如何导出联系人](0047/mac-osx-contact.md)
 1. [Mac 技巧：使用 Pages 制作 ePub 格式电子书](0048/mac-osx-pages-epub.md)
 1. [设计师的配色理论：你真懂颜色了吗？](0049/color-theory-for-designers.md)
+1. [设计师的配色理论：你真懂这些色彩术语吗？](0050/color-concepts-and-terminology.md)
