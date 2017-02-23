@@ -45,3 +45,4 @@
 1. [Mac 基础教程：如何玩转 Mac 截图](0038/mac-osx-screencapture.md)
 1. [Mac 基础教程：如何更改 OS X 截图默认保存路径](0039/mac-osx-screencapture.md)
 1. [Mac 基础教程：如何更改 OS X 默认的截图文件格式](0040/mac-osx-screencapture.md)
+1. [Mac 小技巧：巧用搜索功能查找大型文件](0041/mac-osx-finder-search.md)
