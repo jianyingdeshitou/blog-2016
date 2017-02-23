@@ -48,3 +48,4 @@
 1. [Mac 小技巧：巧用搜索功能查找大型文件](0041/mac-osx-finder-search.md)
 1. [简单 5 招，教你快速腾出 Mac 磁盘可用空间](0042/mac-osx-free-disk-space.md)
 1. [卸载 Mac 应用程序的 4 种基础方法](0043/mac-osx-remove-application.md)
+1. [基础教程：如何给 Mac 通讯录联系人分组](0044/mac-osx-contact.md)
