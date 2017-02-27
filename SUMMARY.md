@@ -61,3 +61,4 @@
 1. [设计师的配色理论：创建自己的调色板](0051/creating-your-own-color-palettes.md)
 1. [巧用色彩的冲击力！13例大胆用色网页设计赏](0052/13-beautiful-colors-websites.md)
 1. [让高手帮你配色！超好用的在线配色网站TOP 5](0056/online-color-swich-top5.md)
+1. [跟上色彩潮流！带你展望2015年的网页设计配色趋势](0057/2015-website-color-trend.md)
