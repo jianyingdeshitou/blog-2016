@@ -88,3 +88,4 @@
 1. [11本免费的编程电子书（英文）](0081/11-best-free-online-programming-books.md)
 1. [浅析数据化设计思维](0082/data-design.md)
 1. [如何正确学习JavaScript](0083/how-to-learn-JavaScript-properly.md)
+1. [使用2-3法则设计分布式数据访问层](0084/2-3-priciple-dal.md)
