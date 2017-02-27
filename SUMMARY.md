@@ -14,6 +14,7 @@
 1. [隐藏Apache版本号的必要性与方法](0031/apache-config.md)
 1. [PHP-Java-Bridge使用笔记](0032/php-java-bridge.md)
 1. [学习使用PHP_CodeSniffer（一）](0053/php-codesniffer-phpcs-usage.md)
+1. [学习使用PHP_CodeSniffer（二）](0054/php-codesniffer-phpcs-usage.md)
 
 ## 2016
 
