@@ -70,3 +70,6 @@
 1. [色彩的流行趋势分析及实际设计中的应用](0063/color-trend.md)
 1. [色彩设计方法](0064/color-design.md)
 1. [秒变配色高手！怎么都不会错的6条网页设计配色原则](0065/6-rules-webdesign-color.md)
+1. [Thinkful网站配色完全学习指南](0066/color-theory-basics.md)
+1. [进阶教程 如何使用终端命令彻底完全卸载删除软件](0067/mac-osx-remove-application.md)
+1. [各種做白工的前兆](0068/precursor-to-bai-gong.md)
