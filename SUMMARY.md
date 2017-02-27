@@ -66,3 +66,4 @@
 1. [配色弱有救了！教你利用图片创建独有的色彩方案！](0059/use-picture-create-swatches.md)
 1. [设计师们！来了解一下2013年秋冬流行色](0060/2013-fashion-colour.md)
 1. [设计师们！来了解一下2014年春季流行色](0061/fashion-color-report-spring-2014.md)
+1. [快来跟上潮流！来了解一下2015年春夏流行色](0062/2015-spring-fashion-color.md)
