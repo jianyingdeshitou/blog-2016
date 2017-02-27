@@ -68,3 +68,4 @@
 1. [设计师们！来了解一下2014年春季流行色](0061/fashion-color-report-spring-2014.md)
 1. [快来跟上潮流！来了解一下2015年春夏流行色](0062/2015-spring-fashion-color.md)
 1. [色彩的流行趋势分析及实际设计中的应用](0063/color-trend.md)
+1. [色彩设计方法](0064/color-design.md)
