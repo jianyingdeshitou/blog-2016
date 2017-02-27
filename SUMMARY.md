@@ -87,3 +87,4 @@
 1. [10款免费且开源的项目管理工具](0080/free-project-management-tools.md)
 1. [11本免费的编程电子书（英文）](0081/11-best-free-online-programming-books.md)
 1. [浅析数据化设计思维](0082/data-design.md)
+1. [如何正确学习JavaScript](0083/how-to-learn-JavaScript-properly.md)
