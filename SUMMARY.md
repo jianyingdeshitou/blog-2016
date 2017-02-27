@@ -63,3 +63,4 @@
 1. [让高手帮你配色！超好用的在线配色网站TOP 5](0056/online-color-swich-top5.md)
 1. [跟上色彩潮流！带你展望2015年的网页设计配色趋势](0057/2015-website-color-trend.md)
 1. [教你从零开始学配色（一）](0058/head-first-color-theory.md)
+1. [配色弱有救了！教你利用图片创建独有的色彩方案！](0059/use-picture-create-swatches.md)
