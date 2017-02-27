@@ -81,3 +81,4 @@
 1. [有对比才有看头！响应式Web设计的9项基本原则](0074/9-responsive-web-design-principle.md)
 1. [优秀的界面是隐形的](0075/best-ui-design.md)
 1. [怎样深入做用户分析](0076/how-to-user-analysis.md)
+1. [UI设计新手？试一试这7条法则](0077/7-rules-for-creating-gorgeous-ui.md)
