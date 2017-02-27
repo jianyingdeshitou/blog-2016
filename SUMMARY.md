@@ -76,3 +76,4 @@
 1. [如何让头脑风暴更有效率](0069/tips-for-structuring-better-brainstorming-sessions.md)
 1. [从 Material UI 得到的设计感悟](0070/material-design-components.md)
 1. [交互设计工具篇](0071/ux-design-tools.md)
+1. [推荐：交互设计七大定律](0072/7-interaction-design.md)
