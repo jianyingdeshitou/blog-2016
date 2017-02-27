@@ -69,3 +69,4 @@
 1. [快来跟上潮流！来了解一下2015年春夏流行色](0062/2015-spring-fashion-color.md)
 1. [色彩的流行趋势分析及实际设计中的应用](0063/color-trend.md)
 1. [色彩设计方法](0064/color-design.md)
+1. [秒变配色高手！怎么都不会错的6条网页设计配色原则](0065/6-rules-webdesign-color.md)
