@@ -89,3 +89,4 @@
 1. [浅析数据化设计思维](0082/data-design.md)
 1. [如何正确学习JavaScript](0083/how-to-learn-JavaScript-properly.md)
 1. [使用2-3法则设计分布式数据访问层](0084/2-3-priciple-dal.md)
+1. [让开发自动化: 文档化一键通](0085/develop-document-auto-gen.md)
