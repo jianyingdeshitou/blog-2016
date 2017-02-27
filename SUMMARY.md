@@ -15,6 +15,7 @@
 1. [PHP-Java-Bridge使用笔记](0032/php-java-bridge.md)
 1. [学习使用PHP_CodeSniffer（一）](0053/php-codesniffer-phpcs-usage.md)
 1. [学习使用PHP_CodeSniffer（二）](0054/php-codesniffer-phpcs-usage.md)
+1. [编写高效PHP代码之质量保证](0055/php-development-tools.md)
 
 ## 2016
 
