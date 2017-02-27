@@ -83,3 +83,4 @@
 1. [怎样深入做用户分析](0076/how-to-user-analysis.md)
 1. [UI设计新手？试一试这7条法则](0077/7-rules-for-creating-gorgeous-ui.md)
 1. [10本适合于系统管理员的最佳书籍](0078/10-best-system-administration-book.md)
+1. [25本免费的Python电子书](0079/best-open-python-book.md)
